@@ -1,0 +1,11 @@
+
+body{
+    background: #2c2c2c;
+}
+button{
+    background: #8a7395c5;
+    color: #ededed;
+}
+button:hover{
+    background: #4e4454c5;
+}
